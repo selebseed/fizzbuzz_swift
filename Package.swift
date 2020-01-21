@@ -32,5 +32,5 @@ platforms: [.iOS(.v13)],
 products: [.library(name: "FizzBuzz",
                     targets: ["FizzBuzz"])],
 targets: [.target(name: "FizzBuzz",
-                  path: "Source")],
+                  path: "Sources")],
 swiftLanguageVersions: [.v5])
